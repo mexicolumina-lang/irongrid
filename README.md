@@ -13,7 +13,7 @@ App de gym que corre entera en el teléfono: funciona sin señal y se instala en
 - **iPhone**: abre el link en **Safari** > Compartir > *Añadir a pantalla de inicio*.
 - **Android**: abre el link en Chrome > menú ⋮ > *Instalar app*.
 
-Ábrela una vez con señal para que se guarde offline. Después funciona sin conexión.
+Ábrela una vez con señal para que se guarde offline (también se guardan las fuentes del diseño). Después funciona sin conexión.
 
 ## 3. Respaldo en GitHub (recomendado)
 
@@ -24,5 +24,5 @@ Para traer tus datos de la versión Streamlit, pon como archivo `data/users/<tu-
 ## Notas
 
 - Cada persona usa su propio teléfono con sus propios datos; no hay perfiles en esta versión.
-- Si se reemplaza el código, sube `sw.js` con otro número en `irongrid-v1` para forzar la actualización.
+- Si se reemplaza el código, sube `sw.js` con otro número en `irongrid-v3` para forzar la actualización.
 - Un APK se puede generar desde el link publicado con [PWABuilder](https://www.pwabuilder.com). En iPhone solo existe la instalación desde Safari.

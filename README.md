@@ -24,5 +24,5 @@ Para traer tus datos de la versión Streamlit, pon como archivo `data/users/<tu-
 ## Notas
 
 - Cada persona usa su propio teléfono con sus propios datos; no hay perfiles en esta versión.
-- Si se reemplaza el código, sube `sw.js` con otro número en `irongrid-v3` para forzar la actualización.
+- Si se reemplaza el código, sube `sw.js` con otro número en `irongrid-v4` para forzar la actualización.
 - Un APK se puede generar desde el link publicado con [PWABuilder](https://www.pwabuilder.com). En iPhone solo existe la instalación desde Safari.
